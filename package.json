@@ -1,0 +1,19 @@
+{
+  "name": "hyeongnya",
+  "version": "1.0.0",
+  "description": "A transpiler between 혀엉 and 야옹",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "dolsup",
+  "license": "Beerware",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dolsup/hyeongnya.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dolsup/hyeongnya/issues"
+  },
+  "homepage": "https://github.com/dolsup/hyeongnya#readme"
+}
