@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/dolsup/hyeongnya/issues"
   },
-  "homepage": "https://github.com/dolsup/hyeongnya#readme"
+  "homepage": "https://github.com/dolsup/hyeongnya#readme",
+  "keywords": [
+    "혀엉",
+    "야옹",
+    "transpiler"
+  ]
 }
