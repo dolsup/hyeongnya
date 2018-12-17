@@ -1,6 +1,6 @@
 {
   "name": "hyeongnya",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A transpiler between 혀엉 and 야옹",
   "main": "index.js",
   "types": "index.d.ts",
